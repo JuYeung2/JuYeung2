@@ -1,7 +1,7 @@
 ### Hi there 👋
 <details>
 <summary>
-  꾸준히 공부하는 중! We Can Do it!!
+ 💬 꾸준히 공부중...
 </summary>
   
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
