@@ -1,6 +1,9 @@
 ### Hi there 👋
-
-![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<details>
+<summary>
+  꾸준히 공부하는 중! We Can Do it!!
+</summary>
+   ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,11 +15,11 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+</details>
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuYoung22)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuYoung22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JuYeung2/JuYeung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
