@@ -1,5 +1,6 @@
 
 ### Hi there 👋
+<div>
 <details>
 <summary>
  💬 FE
@@ -41,6 +42,9 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuYoung22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</div>
+
 
 <!--
 **JuYeung2/JuYeung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
