@@ -2,7 +2,8 @@
 ### Hi there 👋
 <details>
 <summary>
- 💬 꾸준히 공부중...
+ 💬 Skill
+ <br>
 </summary>
 
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
