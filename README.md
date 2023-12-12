@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<div>
+<div style="display:flex; flex-direction:row;">
 <details>
 <summary>
  💬 FE
