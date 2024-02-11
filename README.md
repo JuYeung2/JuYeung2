@@ -1,8 +1,18 @@
 
 ## Hi there 👋
+
+<br>
 UVC 디지털 트윈 부트캠프
 <br>
-K-디지털트레이닝 구름톤 자연어처리 전문가 과정 진행중
+K-디지털트레이닝 구름톤 자연어처리 전문가 과정 진행중 <br>
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![tensorFlow](https://img.shields.io/badge/tensorFlow-FF6F00?style=for-the-badge&logo=tensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+
 <div>
 <details>
 <summary>
@@ -29,6 +39,7 @@ K-디지털트레이닝 구름톤 자연어처리 전문가 과정 진행중
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 </details>
 
 <details>
