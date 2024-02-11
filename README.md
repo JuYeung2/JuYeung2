@@ -5,6 +5,8 @@
 UVC 디지털 트윈 부트캠프
 <br>
 K-디지털트레이닝 구름톤 자연어처리 전문가 과정 진행중 <br>
+https://www.notion.so/17-b3c3f08667654b3db9252f3b35ade3e9
+<br>
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![tensorFlow](https://img.shields.io/badge/tensorFlow-FF6F00?style=for-the-badge&logo=tensorFlow&logoColor=white)
